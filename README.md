@@ -6,13 +6,9 @@ A small Python tool that parses a kfsensor XML format log, filters it and detect
 Below is a small description of how this library can be used after it is imported:
 
 Step 1. Parse a log file 
-
 Step 2. Run a filter to keep only the events that match the given filter
-
 Step 3. Remove other elements form the list of filtered events (optional)
-
 Step 4. Look for bursts in the list (optional) 
-
 Step 5. Print events
 
 Step 1. Parse a log file
