@@ -1,0 +1,83 @@
+<log>
+<event sensorid="kfsensor" id="803" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2014-01-21 14:26:12:086</start>  <client domain="WIN-60JC2UP27MT" ip="0.0.0.0" port="68" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="804" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2014-01-21 14:26:12:088</start>  <client domain="WIN-60JC2UP27MT" ip="0.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="805" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2014-01-21 14:26:12:089</start>  <client domain="WIN-60JC2UP27MT" ip="0.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="806" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2014-01-21 14:26:12:098</start>  <client domain="WIN-60JC2UP27MT" ip="0.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="807" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2014-01-21 14:26:12:099</start>  <client domain="WIN-60JC2UP27MT" ip="0.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="809" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2014-01-21 14:26:12:100</start>  <client domain="WIN-60JC2UP27MT" ip="0.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="811" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2014-01-21 14:26:12:111</start>  <client domain="WIN-60JC2UP27MT" ip="0.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="812" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2014-01-21 14:26:12:112</start>  <client domain="WIN-60JC2UP27MT" ip="0.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="814" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2014-01-21 14:26:13:112</start>  <client domain="WIN-60JC2UP27MT" ip="0.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="815" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2014-01-21 14:26:14:088</start>  <client domain="WIN-60JC2UP27MT" ip="0.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="822" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2014-01-21 14:26:15:088</start>  <client domain="WIN-60JC2UP27MT" ip="0.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="823" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2014-01-21 14:26:16:088</start>  <client domain="WIN-60JC2UP27MT" ip="0.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="825" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2014-01-22 14:26:17:088</start>  <client domain="WIN-60JC2UP27MT" ip="0.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+
+
+
+<event sensorid="kfsensor" id="1803" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2015-01-21 14:26:12:086</start>  <client domain="WIN-60JC2UP27MT" ip="10.0.0.0" port="68" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="1804" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2015-01-21 14:26:12:088</start>  <client domain="WIN-60JC2UP27MT" ip="10.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="1805" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2015-01-21 14:26:12:089</start>  <client domain="WIN-60JC2UP27MT" ip="10.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="1806" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2015-01-21 14:26:12:098</start>  <client domain="WIN-60JC2UP27MT" ip="10.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="1807" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2015-01-21 14:26:12:099</start>  <client domain="WIN-60JC2UP27MT" ip="10.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="1809" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2015-01-21 14:26:12:100</start>  <client domain="WIN-60JC2UP27MT" ip="10.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="1811" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2015-01-21 14:26:12:111</start>  <client domain="WIN-60JC2UP27MT" ip="10.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="1812" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2015-01-21 14:26:12:112</start>  <client domain="WIN-60JC2UP27MT" ip="10.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="1814" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2015-01-21 14:26:13:112</start>  <client domain="WIN-60JC2UP27MT" ip="10.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="1815" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2015-01-21 14:26:14:088</start>  <client domain="WIN-60JC2UP27MT" ip="10.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="1822" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2015-01-21 14:26:15:088</start>  <client domain="WIN-60JC2UP27MT" ip="10.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="1823" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2015-01-21 14:26:16:088</start>  <client domain="WIN-60JC2UP27MT" ip="10.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+<event sensorid="kfsensor" id="1825" type="Closed Port" desc="Broadcast Packet" action="Sniff" name="UDP Packet" protocol="UDP" severity="Low">
+  <start>2015-01-22 14:26:17:088</start>  <client domain="WIN-60JC2UP27MT" ip="10.0.0.0" port="69" />  <host ip="255.255.255.255" bindip="" port="67" />  <connection closedby="Client" />  <recBytes>300</recBytes>  <received size="300" coding="kf" />
+</event>
+</log>
